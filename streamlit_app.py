@@ -5,7 +5,7 @@ import streamlit as st
 from ultralytics import YOLO
 
 # Replace the relative path to your weight file
-model_path = 'weights/best-final.pt'
+model_path = 'best-final.pt'
 
 # Setting page layout
 st.set_page_config(
