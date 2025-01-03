@@ -32,8 +32,8 @@ def add_bg_with_dim(image_path):
             /* Background for the entire app */
             .stApp {{
                 background: linear-gradient(
-                    rgba(0, 0, 0, 0.8), 
-                    rgba(0, 0, 0, 0.8)
+                    rgba(0, 0, 0, 0.9), 
+                    rgba(0, 0, 0, 0.9)
                 ),
                 url("data:image/jpeg;base64,{encoded_image}");
                 background-size: cover;
