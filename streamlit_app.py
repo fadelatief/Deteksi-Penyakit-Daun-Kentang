@@ -5,7 +5,7 @@ from ultralytics import YOLO
 import base64
 
 # Replace the relative path to your weight file
-model_path = 'best-m.pt'
+model_path = 'best-final.pt'
 
 # Setting page layout
 st.set_page_config(
